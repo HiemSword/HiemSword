@@ -10,4 +10,4 @@ Re della sintassi (in english King of Syntax) is a fictional character that I us
 
 Unfortunately it's only fun in Italian
 
-More info at [Syntax Kingdom Blog](https://regnodellasintassi.surge.sh)
+More info at [Regno della Sintassi Blog](https://regnodellasintassi.surge.sh)
