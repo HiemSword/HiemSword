@@ -2,7 +2,7 @@
 
 #### Who are you?
 
-I am HiemSword, a 16 year old boy that loves computers and programming
+I am HiemSword( or Luca), a 16 year old boy that loves computers and programming
 
 #### What is this "Re della sintassi"?
 
