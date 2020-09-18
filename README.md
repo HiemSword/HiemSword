@@ -16,6 +16,8 @@ Re della sintassi (in english King of Syntax) is a fictional character that I us
 
 Unfortunately it's only fun in Italian
 
+If you want to look at the code, the repository is [here](https://github.com/HiemSword/regnodellasintassi-site)
+
 More info at [Regno della Sintassi Blog](https://regnodellasintassi.surge.sh/about)
 
 
