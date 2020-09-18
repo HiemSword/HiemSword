@@ -7,7 +7,7 @@ My name is Luca (also known as Hiem), and I am a 16-year-old boy who loves compu
 #### What are you working on currently?
 
 I'm working on two projects currently:
-- A Open source Discord bot written in Python (repository [here](https://github.com/nientedidecente/NDD-Bot))
+- An Open source Discord bot written in Python (repository [here](https://github.com/nientedidecente/NDD-Bot))
 - A silly blog about a person called "Re della Sintassi"
 
 #### What is this "Re della sintassi"?
