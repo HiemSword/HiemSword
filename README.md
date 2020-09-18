@@ -20,4 +20,4 @@ More info at [Regno della Sintassi Blog](https://regnodellasintassi.surge.sh/abo
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=HiemSword&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiemSword&hide=ren'py,javascript&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiemSword&langs_count=8&hide=ren'py,javascript)](https://github.com/anuraghazra/github-readme-stats)
