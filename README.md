@@ -19,4 +19,4 @@ Unfortunately it's only fun in Italian
 More info at [Regno della Sintassi Blog](https://regnodellasintassi.surge.sh/about)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiemSword&layout=compact&hide=ren'py)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiemSword&layout=compact&hide=ren'py,javascript)](https://github.com/anuraghazra/github-readme-stats)
