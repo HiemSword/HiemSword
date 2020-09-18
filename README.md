@@ -4,6 +4,12 @@
 
 My name is Luca (also known as Hiem), and I am a 16-year-old boy who loves computers and programming.
 
+#### What are you working on currently?
+
+I'm working on two projects currently:
+- A Open source Discord bot written in Python
+- A silly blog about a person called "Re della Sintassi"
+
 #### What is this "Re della sintassi"?
 
 Re della sintassi (in english King of Syntax) is a fictional character that I use to do or write silly and funny things
