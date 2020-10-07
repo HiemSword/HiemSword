@@ -2,7 +2,7 @@
 
 #### Who are you?
 
-My name is Luca (also known as Hiem), and I am a 16-year-old boy who loves computers and programming.
+You can call me Hiem (or HiemSword), and I am a 16-year-old boy who loves computers and programming.
 
 #### What are you working on currently?
 
