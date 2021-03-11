@@ -9,12 +9,13 @@ You can call me Hiem (or HiemSword), and I am a 17-year-old boy who loves comput
 I'm working on two projects currently:
 - An Open source Discord bot written in Python (repository [here](https://github.com/nientedidecente/NDD-Bot))
 - A silly blog about a person called "Re della Sintassi"
+- A game on the Godot Game Engine ("ProjectS")
 
 #### What is this "Re della sintassi"?
 
 Re della sintassi (in english King of Syntax) is a fictional character that I use to do or write silly and funny things
 
-Unfortunately it's only fun in Italian
+Unfortunately it's only "fun" in Italian
 
 If you want to look at the code, the repository is [here](https://github.com/HiemSword/regnodellasintassi-site)
 
