@@ -2,7 +2,7 @@
 
 #### Who are you?
 
-You can call me Hiem (or HiemSword), and I am a 17-year-old boy who loves computers and programming.
+You can call me Hiem (or HiemSword). I'm your standard teenager that likes computers and stuff
 
 #### What are you working on currently?
 
