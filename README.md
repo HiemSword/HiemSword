@@ -19,7 +19,7 @@ Unfortunately it's only "fun" in Italian
 
 If you want to look at the code, the repository is [here](https://github.com/HiemSword/regnodellasintassi-site)
 
-More info at [Regno della Sintassi Blog](https://regnodellasintassi.surge.sh/about)
+<!--More info at [Regno della Sintassi Blog](https://regnodellasintassi.surge.sh/about)-->
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
