@@ -23,7 +23,7 @@ If you want to look at the code, the repository is [here](https://github.com/Hie
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hiem&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HiemSword&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
