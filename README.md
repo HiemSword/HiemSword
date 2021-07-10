@@ -2,14 +2,14 @@
 
 #### Who are you?
 
-You can call me Hiem (or HiemSword). I'm your standard teenager that likes computers and stuff
+You can call me Hiem. I'm your standard teenager that likes computers and stuff
 
 #### What are you working on currently?
 
 I'm working on two projects currently:
 - An Open source Discord bot written in Python (repository [here](https://github.com/nientedidecente/NDD-Bot))
 - A silly blog about a person called "Re della Sintassi"
-- A game on the Godot Game Engine ("ProjectS")
+- A game on the Godot Game Engine
 
 #### What is this "Re della sintassi"?
 
