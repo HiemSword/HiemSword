@@ -9,8 +9,9 @@ You can call me Hiem. I'm your standard teenager that likes computers and stuff
 I'm working on these projects currently:
 - An Open source Discord bot written in Python (repository [here](https://github.com/nientedidecente/NDD-Bot) but its kinda dead)
 - Android apps
-<!-- - A silly blog about a person called "Re della Sintassi"-->
 - Learning Godot
+<!-- - A silly blog about a person called "Re della Sintassi"-->
+
 
 <!--#### What is this "Re della sintassi"?
 
