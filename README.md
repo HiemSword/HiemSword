@@ -7,9 +7,8 @@ You can call me Hiem. I'm your standard teenager that likes computers and stuff
 #### What are you working on currently?
 
 I'm working on these projects currently:
-- An Open source Discord bot written in Python (repository [here](https://github.com/nientedidecente/NDD-Bot) but its kinda dead)
 - Android apps
-- Learning Godot
+- Learning Unity
 <!-- - A silly blog about a person called "Re della Sintassi"-->
 
 
