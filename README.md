@@ -8,7 +8,7 @@ You can call me Hiem. I'm your standard teenager that likes computers and stuff
 
 I'm working on these projects currently:
 - Android apps
-- Learning Unity
+- Learning ~~Unity~~ Godot
 <!-- - A silly blog about a person called "Re della Sintassi"-->
 
 
@@ -26,8 +26,3 @@ More info at [Regno della Sintassi Blog](https://regnodellasintassi.surge.sh/abo
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HiemSword&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
--->
