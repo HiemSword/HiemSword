@@ -8,19 +8,7 @@ You can call me Hiem. I'm your standard teenager that likes computers and stuff
 
 I'm working on these projects currently:
 - Android apps
-- Learning ~~Unity~~ Godot
-<!-- - A silly blog about a person called "Re della Sintassi"-->
-
-
-<!--#### What is this "Re della sintassi"?
-
-Re della sintassi (in english King of Syntax) is a fictional character that I use to do or write silly and funny things
-
-Unfortunately it's only "fun" in Italian
-
-If you want to look at the code, the repository is [here](https://github.com/HiemSword/regnodellasintassi-site)
-
-More info at [Regno della Sintassi Blog](https://regnodellasintassi.surge.sh/about)-->
+- Making games in Godot
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
