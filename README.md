@@ -1,14 +1,18 @@
 ### Hi there 👋
 
-#### Who are you?
-
 You can call me Hiem. I'm your standard teenager that likes computers and stuff
 
-#### What are you working on currently?
+#### Languages / IDEs / Stuff i use
 
-I'm working on these projects currently:
-- Android apps
-- Making games in Godot
+- IDEs : VS Code, IntelliJ IDEA, Android Studio, Visual Studio 2020
+- Languages : Java, Python, Kotlin, C#, GDScript (Godot)
+- My primary OS is Manjaro with Windows dual-booted
+- Proud owner of 3 raspberry pi
+- Currently have 13 services self-hosted
+
+#### Projects:
+
+Im currently working on <a href="https://github.com/DFinder-Org">DFinder</a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
