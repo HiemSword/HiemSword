@@ -6,13 +6,6 @@ You can call me Hiem. I'm your standard teenager that likes computers and stuff
 
 - IDEs : VS Code, IntelliJ IDEA, Android Studio, Visual Studio 2020
 - Languages : Java, Python, JS, Kotlin, C#, GDScript (Godot)
-- My primary OS is Manjaro with Windows dual-booted
-- Proud owner of 3 raspberry pi
-- Currently have 13 services self-hosted
-
-#### Projects:
-
-Im currently working on <a href="https://github.com/DFinder-Org">DFinder</a>
 
 If you need to contact me, my email is hello [at] hiem.slmail.me
 
