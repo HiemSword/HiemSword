@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-You can call me Hiem. I'm your standard teenager that likes computers and stuff
-
 #### Languages / IDEs / Stuff i use
 
 - IDEs : VS Code, IntelliJ IDEA, Android Studio, Visual Studio 2020
